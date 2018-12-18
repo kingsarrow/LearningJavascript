@@ -1,0 +1,27 @@
+{
+  "name": "learningjavascript",
+  "version": "1.0.0",
+  "description": "=Learning JavaScript, 3rd edition",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsarrow/LearningJavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsarrow/LearningJavascript/issues"
+  },
+  "homepage": "https://github.com/kingsarrow/LearningJavascript#readme",
+}
